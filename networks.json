@@ -1,0 +1,8 @@
+{
+  "arbitrum-one": {
+    "nBeaconProxy": {
+      "address": "0x0519614643A019fEb53B9F2C395B243253f75DB7",
+      "startBlock": 156916556
+    }
+  }
+}
